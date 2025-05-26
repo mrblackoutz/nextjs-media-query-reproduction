@@ -26,6 +26,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 page.tsx
 postcss.config.mjs
+package.json
 
 ## Created
 
